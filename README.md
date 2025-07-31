@@ -34,6 +34,8 @@ Third-year undergraduate aerospace MEng student studying at the University of Ma
 [![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)](https://www.kicad.org/)
 [![C#](https://img.shields.io/badge/C%23-99CC00?style=for-the-badge&logo=sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![home assistant](https://img.shields.io/badge/home_assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white)](https://www.home-assistant.io/)
+[![jinja](https://img.shields.io/badge/jinja-7E0C1B?style=for-the-badge&logo=jinja&logoColor=white)](https://jinja.palletsprojects.com/en/stable/)
 
 <br>
 
