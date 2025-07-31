@@ -28,5 +28,5 @@ Fusion, Matlab, Solidworks, ESP32, Arduino, Raspberry Pi, Etc.
 <br>
 
 ## GitHub Usage
-![Alexander T-Moss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexander-T-Moss&show_icons=true&hide_border=true&bg_color=45,00AAFF,E83397&title_color=d1d7e0&text_color=d1d7e0&icon_color=E83397&rank_icon=github&card_width=900&hide=contribs)
+![Alexander T-Moss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexander-T-Moss&show_icons=true&hide_border=true&bg_color=45,00AAFF,E83397&title_color=d1d7e0&text_color=d1d7e0&icon_color=E83397&rank_icon=github&card_width=800&hide=contribs)
 </div>
