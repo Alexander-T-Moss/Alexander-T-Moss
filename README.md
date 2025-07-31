@@ -23,7 +23,17 @@ Third-year undergraduate aerospace MEng student studying at the University of Ma
 <br>
 
 ## Proficient With
-Fusion, Matlab, Solidworks, ESP32, Arduino, Raspberry Pi, Etc.
+
+[![Fusion](https://img.shields.io/badge/Fusion-fe6b00?style=for-the-badge&logo=Autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360/overview)
+[![Matlab](https://img.shields.io/badge/Matlab-0b5f9d?style=for-the-badge&logo=matrix&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+[![solidwork](https://img.shields.io/badge/solidwork-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)](https://www.solidworks.com/)
+[![ESPHome](https://img.shields.io/badge/ESPHome-1abcf2?style=for-the-badge&logo=esphome&logoColor=white)](https://esphome.io/)
+[![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-494e52?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)](https://www.kicad.org/)
+[![C#](https://img.shields.io/badge/C%23-99CC00?style=for-the-badge&logo=sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 <br>
 
