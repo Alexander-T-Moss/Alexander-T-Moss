@@ -6,7 +6,7 @@
 
 ## Hi There, I'm Alex 👋
 
-3rd Year Undergrad Aerospace MEng Student @ University Of Manchester. 3D Printing Enthusiast, General Tinkerer & FPV Drone Pilot.
+Third-year undergraduate aerospace MEng student studying at the University of Manchester. 3D printing enthusiast, general tinkerer & weekend drone flier.
 
 
 ## Favourite Projects Showcase
