@@ -11,8 +11,8 @@
 
 
 ## Favourite Projects Showcase
-[![Hex-Zero Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-T-Moss&repo=Hex-Zero)](https://github.com/anuraghazra/github-readme-stats)
-[![Small-Area-Flow-Comp Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-T-Moss&repo=Small-Area-Flow-Comp)](https://github.com/anuraghazra/github-readme-stats)
+[![Hex-Zero Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-T-Moss&repo=Hex-Zero)](https://github.com/Alexander-T-Moss/Hex-Zero)
+[![Small-Area-Flow-Comp Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-T-Moss&repo=Small-Area-Flow-Comp)](https://github.com/Alexander-T-Moss/Small-Area-Flow-Comp)
 ## Proficient With
 Fusion, Matlab, Solidworks, ESP32, Arduino, Raspberry Pi, Etc.
 </div>
