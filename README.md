@@ -13,4 +13,4 @@
 
 
 
-![Alexander T-Moss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexander-T-Moss&show_icons=true&theme=transparent)
+![Alexander T-Moss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexander-T-Moss&show_icons=true&hide_border=true)
