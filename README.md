@@ -17,8 +17,8 @@ Third-year undergraduate aerospace MEng student studying at the University of Ma
   <img src="./Resources/demo_animation.gif" width="400" />
 </div>
 
-[![Hex-Zero Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-T-Moss&repo=Hex-Zero&show_icons=true&hide_border=true&bg_color=45,00AAFF,E83397&title_color=d1d7e0&text_color=d1d7e0&icon_color=E83397)](https://github.com/Alexander-T-Moss/Hex-Zero)
-[![Small-Area-Flow-Comp Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-T-Moss&repo=Small-Area-Flow-Comp&show_icons=true&hide_border=true&bg_color=45,00AAFF,E83397&title_color=d1d7e0&text_color=d1d7e0&icon_color=E83397)](https://github.com/Alexander-T-Moss/Small-Area-Flow-Comp)
+[![Hex-Zero Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-T-Moss&repo=Hex-Zero&theme=transparent)](https://github.com/Alexander-T-Moss/Hex-Zero)
+[![Small-Area-Flow-Comp Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-T-Moss&repo=Small-Area-Flow-Comp&theme=transparent)](https://github.com/Alexander-T-Moss/Small-Area-Flow-Comp)
 
 <br>
 
