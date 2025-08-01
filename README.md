@@ -21,6 +21,14 @@ Third-year undergraduate aerospace MEng student studying at the University of Ma
 [![Hex-Zero Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-T-Moss&repo=Hex-Zero&theme=transparent)](https://github.com/Alexander-T-Moss/Hex-Zero)
 [![Small-Area-Flow-Comp Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-T-Moss&repo=Small-Area-Flow-Comp&theme=transparent)](https://github.com/Alexander-T-Moss/Small-Area-Flow-Comp)
 
+<div align="center">
+  <img src="./Resources/alex_age.gif" width="400" />
+  <img src="./Resources/alex_age.gif" width="400" />
+</div>
+
+[![Alex Age Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-T-Moss&repo=Alexander-T-Moss.github.io&theme=transparent)](https://github.com/Alexander-T-Moss/Alexander-T-Moss.github.io)
+[![Alex Age Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-T-Moss&repo=Alexander-T-Moss.github.io&theme=transparent)](https://github.com/Alexander-T-Moss/Alexander-T-Moss.github.io)
+
 <br>
 
 ## Dabbled With
