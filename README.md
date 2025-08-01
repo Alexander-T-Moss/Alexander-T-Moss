@@ -11,7 +11,7 @@
 Third-year undergraduate aerospace MEng student studying at the University of Manchester.  
 3D printing enthusiast, general tinkerer & weekend drone flier.<br><br>
 
-## Favourite Projects Showcase
+## Favourite Projects Showcase 🔎
 
 <div align="center">
   <img src="./Resources/Hex-Zero_Cover_Render.png" width="400" />
@@ -29,7 +29,7 @@ Third-year undergraduate aerospace MEng student studying at the University of Ma
 
 <br>
 
-## Dabbled With
+## Dabbled With 📚
 
 [![Fusion](https://img.shields.io/badge/Fusion-fe6b00?style=for-the-badge&logo=Autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360/overview)
 [![Matlab](https://img.shields.io/badge/Matlab-0b5f9d?style=for-the-badge&logo=matrix&logoColor=white)](https://www.mathworks.com/products/matlab.html)
@@ -48,6 +48,6 @@ Third-year undergraduate aerospace MEng student studying at the University of Ma
 
 <br>
 
-## GitHub Usage
+## GitHub Usage ⚙️
 ![Alexander T-Moss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexander-T-Moss&show_icons=true&hide_border=true&bg_color=45,00AAFF,E83397&title_color=d1d7e0&text_color=d1d7e0&icon_color=E83397&rank_icon=github&card_width=800&hide=contribs)
 </div>
