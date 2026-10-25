@@ -8,8 +8,8 @@
 
 ## Hi There, I'm Alex 👋
 
-Third-year undergraduate aerospace MEng student studying at the University of Manchester.  
-3D printing enthusiast, general tinkerer & weekend drone flier.<br><br>
+Final-year undergraduate aerospace MEng student studying at the University of Manchester.  
+3D printing enthusiast and general tinkerer.<br><br>
 
 ## Favourite Projects Showcase 🔎
 
